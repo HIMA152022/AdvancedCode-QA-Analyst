@@ -1,5 +1,5 @@
 ---
-<h1 align="center">🤖 QA Tester — Multi-Agent Code Analysis</h1>
+<h1 align="center">🤖 Advanced Code QA Analyst</h1>
 
 <p align="center">
   Fully Automated Test Generation, Execution & Bug Reporting — Offline First
