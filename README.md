@@ -133,6 +133,3 @@ Every defect is tied to a reproducible failing test — no speculation.
 
 ```
 
-
-👤 Author
-SUSHIL
