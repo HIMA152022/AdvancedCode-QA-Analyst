@@ -1,0 +1,26 @@
+# Core functionality
+python-dotenv
+tqdm
+requests
+
+# Google Gemini API
+google-generativeai>=0.6.0
+
+# Static code analysis
+asttokens
+
+# UI Demo
+streamlit
+
+# Testing
+pytest
+pytest-cov
+pytest-asyncio
+
+# Notebook support (optional)
+notebook
+ipykernel
+pandas
+
+# Dev quality
+rich
